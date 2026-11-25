@@ -1,0 +1,6 @@
+{
+  "name": "給最愛的夏淼 · 聖誕節互動電子卡片",
+  "description": "浪漫溫馨的手機直式聖誕節愛情互動電子卡片，包含開場信封、526天紀念信件與隱藏聖誕彩蛋小紙條。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
